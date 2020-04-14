@@ -1,0 +1,24 @@
+{
+  "name": "200414-mongo-crud-lecture-house472",
+  "version": "1.0.0",
+  "description": "[Resource - MDN Mongo Info](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB) | [Resource - Mongoose Methods](https://mongoosejs.com/docs/api/model.html) ### Set up - Create five endpoints in a routes module mounted to the `api` path     - Read all entries - display `Get all method worked`     - Read entry by title - display `Get by title method worked`     - Create an entry - display `Post method worked`     - Update an entry - display `Put method worked`     - Delete an entry - display `Delete method worked` - Create, test, and save all endpoints in Postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-lecture-house472.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-lecture-house472/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-lecture-house472#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3"
+  }
+}
